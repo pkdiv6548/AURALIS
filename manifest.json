@@ -1,0 +1,17 @@
+{
+  "name": "OpenBeat \u2014 Premium Music Player",
+  "short_name": "OpenBeat",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070908",
+  "theme_color": "#d9ff4a",
+  "description": "Premium static music player with immersive visuals and lyrics.",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
